@@ -1,2 +1,2 @@
-# pachan2
-Clasificación "oficial" de Pachangueros   https://pachangueros.github.io/pachan2/
+# Pachangueros
+https://pachangueros.github.io/pachan/
