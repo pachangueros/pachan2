@@ -1,2 +1,2 @@
 # Pachangueros
-https://pachangueros.github.io/pachan/
+https://pachangueros.github.io/pachan_1_1/
