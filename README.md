@@ -1,2 +1,2 @@
 # Pachangueros
-https://pachangueros.github.io/reloj/
+https://sonfoal.github.io/reloj/
